@@ -8,3 +8,4 @@ var number="Two hundred";
 //Integers
 var number1=200;
 //Boolean
+var isEmpty=TRUE;
